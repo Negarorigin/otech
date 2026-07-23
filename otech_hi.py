@@ -1,2 +1,4 @@
 #/user/bin/env python
-Print("hi")
+print("hi")
+#seppo_test
+print("say hi")
